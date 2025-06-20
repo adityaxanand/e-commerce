@@ -1,0 +1,402 @@
+[
+  {
+    "id": 1,
+    "name": "Electronics"
+  },
+  {
+    "id": 2,
+    "name": "Computers"
+  },
+  {
+    "id": 3,
+    "name": "Kids"
+  },
+  {
+    "id": 4,
+    "name": "Electronics"
+  },
+  {
+    "id": 5,
+    "name": "Clothing"
+  },
+  {
+    "id": 6,
+    "name": "Computers"
+  },
+  {
+    "id": 7,
+    "name": "Home"
+  },
+  {
+    "id": 8,
+    "name": "Industrial"
+  },
+  {
+    "id": 9,
+    "name": "Grocery"
+  },
+  {
+    "id": 10,
+    "name": "Garden"
+  },
+  {
+    "id": 11,
+    "name": "Movies"
+  },
+  {
+    "id": 12,
+    "name": "Grocery"
+  },
+  {
+    "id": 13,
+    "name": "Sports"
+  },
+  {
+    "id": 14,
+    "name": "Sports"
+  },
+  {
+    "id": 15,
+    "name": "Electronics"
+  },
+  {
+    "id": 16,
+    "name": "Health"
+  },
+  {
+    "id": 17,
+    "name": "Home"
+  },
+  {
+    "id": 18,
+    "name": "Kids"
+  },
+  {
+    "id": 19,
+    "name": "Jewelry"
+  },
+  {
+    "id": 20,
+    "name": "Industrial"
+  },
+  {
+    "id": 21,
+    "name": "Beauty"
+  },
+  {
+    "id": 22,
+    "name": "Computers"
+  },
+  {
+    "id": 23,
+    "name": "Outdoors"
+  },
+  {
+    "id": 24,
+    "name": "Garden"
+  },
+  {
+    "id": 25,
+    "name": "Beauty"
+  },
+  {
+    "id": 26,
+    "name": "Books"
+  },
+  {
+    "id": 27,
+    "name": "Sports"
+  },
+  {
+    "id": 28,
+    "name": "Baby"
+  },
+  {
+    "id": 29,
+    "name": "Clothing"
+  },
+  {
+    "id": 30,
+    "name": "Health"
+  },
+  {
+    "id": 31,
+    "name": "Games"
+  },
+  {
+    "id": 32,
+    "name": "Baby"
+  },
+  {
+    "id": 33,
+    "name": "Beauty"
+  },
+  {
+    "id": 34,
+    "name": "Computers"
+  },
+  {
+    "id": 35,
+    "name": "Baby"
+  },
+  {
+    "id": 36,
+    "name": "Beauty"
+  },
+  {
+    "id": 37,
+    "name": "Music"
+  },
+  {
+    "id": 38,
+    "name": "Outdoors"
+  },
+  {
+    "id": 39,
+    "name": "Grocery"
+  },
+  {
+    "id": 40,
+    "name": "Sports"
+  },
+  {
+    "id": 41,
+    "name": "Kids"
+  },
+  {
+    "id": 42,
+    "name": "Beauty"
+  },
+  {
+    "id": 43,
+    "name": "Toys"
+  },
+  {
+    "id": 44,
+    "name": "Computers"
+  },
+  {
+    "id": 45,
+    "name": "Sports"
+  },
+  {
+    "id": 46,
+    "name": "Home"
+  },
+  {
+    "id": 47,
+    "name": "Music"
+  },
+  {
+    "id": 48,
+    "name": "Computers"
+  },
+  {
+    "id": 49,
+    "name": "Garden"
+  },
+  {
+    "id": 50,
+    "name": "Electronics"
+  },
+  {
+    "id": 51,
+    "name": "Jewelry"
+  },
+  {
+    "id": 52,
+    "name": "Grocery"
+  },
+  {
+    "id": 53,
+    "name": "Grocery"
+  },
+  {
+    "id": 54,
+    "name": "Outdoors"
+  },
+  {
+    "id": 55,
+    "name": "Automotive"
+  },
+  {
+    "id": 56,
+    "name": "Baby"
+  },
+  {
+    "id": 57,
+    "name": "Baby"
+  },
+  {
+    "id": 58,
+    "name": "Music"
+  },
+  {
+    "id": 59,
+    "name": "Books"
+  },
+  {
+    "id": 60,
+    "name": "Industrial"
+  },
+  {
+    "id": 61,
+    "name": "Computers"
+  },
+  {
+    "id": 62,
+    "name": "Outdoors"
+  },
+  {
+    "id": 63,
+    "name": "Grocery"
+  },
+  {
+    "id": 64,
+    "name": "Movies"
+  },
+  {
+    "id": 65,
+    "name": "Home"
+  },
+  {
+    "id": 66,
+    "name": "Health"
+  },
+  {
+    "id": 67,
+    "name": "Garden"
+  },
+  {
+    "id": 68,
+    "name": "Home"
+  },
+  {
+    "id": 69,
+    "name": "Electronics"
+  },
+  {
+    "id": 70,
+    "name": "Industrial"
+  },
+  {
+    "id": 71,
+    "name": "Beauty"
+  },
+  {
+    "id": 72,
+    "name": "Shoes"
+  },
+  {
+    "id": 73,
+    "name": "Electronics"
+  },
+  {
+    "id": 74,
+    "name": "Jewelry"
+  },
+  {
+    "id": 75,
+    "name": "Baby"
+  },
+  {
+    "id": 76,
+    "name": "Shoes"
+  },
+  {
+    "id": 77,
+    "name": "Industrial"
+  },
+  {
+    "id": 78,
+    "name": "Automotive"
+  },
+  {
+    "id": 79,
+    "name": "Sports"
+  },
+  {
+    "id": 80,
+    "name": "Automotive"
+  },
+  {
+    "id": 81,
+    "name": "Health"
+  },
+  {
+    "id": 82,
+    "name": "Home"
+  },
+  {
+    "id": 83,
+    "name": "Games"
+  },
+  {
+    "id": 84,
+    "name": "Garden"
+  },
+  {
+    "id": 85,
+    "name": "Toys"
+  },
+  {
+    "id": 86,
+    "name": "Garden"
+  },
+  {
+    "id": 87,
+    "name": "Sports"
+  },
+  {
+    "id": 88,
+    "name": "Computers"
+  },
+  {
+    "id": 89,
+    "name": "Grocery"
+  },
+  {
+    "id": 90,
+    "name": "Music"
+  },
+  {
+    "id": 91,
+    "name": "Electronics"
+  },
+  {
+    "id": 92,
+    "name": "Outdoors"
+  },
+  {
+    "id": 93,
+    "name": "Beauty"
+  },
+  {
+    "id": 94,
+    "name": "Jewelry"
+  },
+  {
+    "id": 95,
+    "name": "Grocery"
+  },
+  {
+    "id": 96,
+    "name": "Kids"
+  },
+  {
+    "id": 97,
+    "name": "Kids"
+  },
+  {
+    "id": 98,
+    "name": "Health"
+  },
+  {
+    "id": 99,
+    "name": "Outdoors"
+  },
+  {
+    "id": 100,
+    "name": "Movies"
+  }
+]
